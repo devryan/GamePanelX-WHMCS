@@ -2,6 +2,7 @@ GamePanelX-WHMCS
 ================
 
 GamePanelX V3 WHMCS Module
+
 Written by Ryan Gehrig
 
 ================
